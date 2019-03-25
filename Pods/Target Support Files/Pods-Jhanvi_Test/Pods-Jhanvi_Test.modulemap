@@ -1,0 +1,6 @@
+framework module Pods_Jhanvi_Test {
+  umbrella header "Pods-Jhanvi_Test-umbrella.h"
+
+  export *
+  module * { export * }
+}
